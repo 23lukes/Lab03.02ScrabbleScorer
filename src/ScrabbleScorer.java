@@ -23,11 +23,6 @@ public class ScrabbleScorer {
         buildDictionary();
     }
 
-    // import data from the text file
-    // read file
-    // find first letter?
-    // go get word
-
     /**
      * Import data from the text file and reads the file
      * Finds the first letter of the word and goes to get the word from the file

@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c391771-6f01-4c38-820f-4a6a1e39cfdb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab03.02ScrabbleScorer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScrabbleScorer.java" afterDir="false" />
+    <list default="true" id="0c391771-6f01-4c38-820f-4a6a1e39cfdb" name="Changes" comment="Does this work?">
+      <change afterPath="$PROJECT_DIR$/SCRABBLE_WORDS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScrabbleScorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScrabbleScorer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +68,16 @@
       <updated>1674747924678</updated>
       <workItem from="1674747927553" duration="3457000" />
       <workItem from="1675085425812" duration="3224000" />
-      <workItem from="1675178442327" duration="430000" />
+      <workItem from="1675178442327" duration="1597000" />
     </task>
+    <task id="LOCAL-00001" summary="Does this work?">
+      <created>1675179107508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675179107509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Does this work?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Does this work?" />
   </component>
 </project>
